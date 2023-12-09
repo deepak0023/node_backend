@@ -1,0 +1,26 @@
+{
+  "name": "node_backend",
+  "version": "1.0.0",
+  "description": "This Is a node project expected to provide API to the front end development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak0023/node_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak0023/node_backend/issues"
+  },
+  "homepage": "https://github.com/deepak0023/node_backend#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
